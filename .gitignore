@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/1stWebAPI/v17
+/.vs
+/1stWebAPI/.vs/1stWebAPI
